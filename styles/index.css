@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(180deg, #201f1f 10%, #700670 100%);
+}
+
+.row{
+  border-radius: 10px;
+  background-color: linear-gradient(180deg, #201f1f 10%, #700670 100%);
+  color: white;
+  
+}
+
